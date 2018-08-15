@@ -37,10 +37,16 @@ Supervised learning and Unsupervised learning.
 ### Various types of Machine Learning Algorithms
 
 - Supervised learning
+
 ...We teach computers to how to do something
 - Unsupervised learning
+
 ...The Computer will learn by itself how to do something
 - Others
-... Reinforcement learning, recommender systems
+
+...Reinforcement learning, recommender systems
 
 In general, any machine learning problem can be assigned to one of two broad classifications: Supervised learning and Unsupervised learning.
+
+# Supervised Learning
+...
