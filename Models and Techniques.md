@@ -1,5 +1,8 @@
 ### Machine learning models and techniques
 
+**CRISP-DM** stands for cross-industry process for data mining. The CRISP-DM methodology provides a structured approach to planning a data mining project. 
+
+
 **Bagging** (stands for Bootstrap Aggregation) is the way decrease the variance of your prediction by generating additional 
 data for training from your original data set using combinations with repetitions to produce multi sets of the same 
 carnality/size as your original data. By increasing the size of your training set you can't improve the model predictive 
